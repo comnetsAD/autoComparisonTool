@@ -1,0 +1,826 @@
+<html class="Public LoggedOut NoSidebar Responsive hasJs NoTouch HasDragDrop" dir="LTR" id="XenForo" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Anton|Droid+Sans|Carrois+Gothic" rel="stylesheet"/>
+<link href="https://cdn.head-fi.org/assets/static/Head-Fi_Favicon_01b.png" rel="icon" type="image/png"/>
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="gpt-impl-0.533185024881982" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019061701.js"></script><link as="script" href="https://adservice.google.com/adsid/integrator.sync.js?domain=www.head-fi.org" rel="preload"/><script src="https://adservice.google.com/adsid/integrator.sync.js?domain=www.head-fi.org"></script><script>processGoogleTokenSync({"newToken":"FBS"},5);</script><link as="script" href="https://adservice.google.com/adsid/integrator.sync.js?domain=www.head-fi.org" rel="preload"/><script>processGoogleTokenSync({"newToken":"FBS"},5);</script>
+<style>
+  #div-gpt-ad-1500930848317-0>div, #div-gpt-ad-1500930848317-0>div>iframe {
+    width: 100% !important;
+    height: 100% !important;
+  }
+</style>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1014321/hf_fp_takeover_4096x2160_1', [[4096,2160],'fluid'], 'div-gpt-ad-1500930848317-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_filmstrip_300x600_1', [[300,600],'fluid'], 'div-gpt-ad-1490802922404-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_filmstrip_300x600_2', [[300,600],'fluid'], 'div-gpt-ad-1490803283052-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_filmstrip_300x600_3', ['fluid',[300,600]], 'div-gpt-ad-1490803313308-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_sidekick_300x250_1', ['fluid',[300,250]], 'div-gpt-ad-1490803342509-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_sidekick_300x250_2', [[300,250],'fluid'], 'div-gpt-ad-1490803702659-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_sidekick_300x250_3', ['fluid',[300,250]], 'div-gpt-ad-1490803918549-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_ultra_leaderboard_1200x148_1', [[1200,148],[728,90],'fluid'], 'div-gpt-ad-1490803956740-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_ultra_leaderboard_1200x148_2', ['fluid',[1200,148],[728,90]], 'div-gpt-ad-1490803986743-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_wedge_300x150_1', ['fluid',[300,150]], 'div-gpt-ad-1490804909103-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_wedge_300x150_2', [[300,150],'fluid'], 'div-gpt-ad-1490804937368-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_880x108_1', [[728,90],[880,108],'fluid'], 'div-gpt-ad-1490814703642-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_880x108_2', ['fluid',[880,108],[728,90]], 'div-gpt-ad-1490814735999-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_wp_880x108_3', ['fluid',[880,108],[728,90]], 'div-gpt-ad-1490815580547-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_mobile_other_sidekick_300x250_1', ['fluid',[300,250]], 'div-gpt-ad-1492666286225-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_sponsor_140x140_1', [[140,140]], 'div-gpt-ad-1490752276726-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_sponsor_140x140_2', [[140,140]], 'div-gpt-ad-1490752301668-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_sponsor_140x140_3', [[140,140]], 'div-gpt-ad-1490752469798-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_sponsor_140x140_4', [[140,140]], 'div-gpt-ad-1490752505857-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_sponsor_140x140_5', [[140,140]], 'div-gpt-ad-1490752540270-0').addService(googletag.pubads());
+    googletag.defineSlot('/1014321/hf_sponsor_140x140_6', [[140,140]], 'div-gpt-ad-1490752581336-0').addService(googletag.pubads());
+    
+
+
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+      if (event.slot.getSlotElementId() == 'div-gpt-ad-1500930848317-0')
+        window.dfpTakeoverRunning = !event.isEmpty;
+      updateBackground();
+    });
+
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+    googletag.pubads().collapseEmptyDivs();
+
+
+
+    googletag.enableServices();
+  });
+</script>
+<meta charset="utf-8"/>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<base href="https://www.head-fi.org/"/>
+<title>Head-Fi: All the latest headphone reviews and headphone news. Spirited discussion forums, Head-Fi gear galleries, a large review database, and audio measurements. | Headphone Reviews and Discussion - Head-Fi.org</title>
+<link href="css.php?css=xenforo,form,public&amp;style=6&amp;dir=LTR&amp;d=1561492387" rel="stylesheet"/>
+<link href="css.php?css=ad_DFP_header,hf_dfp_div,hf_feature_index,login_bar,nflj_ams_tab_links,nflj_showcase_tab_links,notices,panel_scroller,sonnb_xengallery_navbar_template&amp;style=6&amp;dir=LTR&amp;d=1561492387" rel="stylesheet"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<link href="https://cdn.head-fi.org/assets/static/Head-Fi_Favicon_01e_200.png" rel="apple-touch-icon"/>
+<link href="forums/-/index.rss" rel="alternate" title="RSS feed for Headphone Reviews and Discussion - Head-Fi.org" type="application/rss+xml"/>
+<link href="https://www.head-fi.org/forums/" rel="canonical"/>
+<meta content="Head-Fi: All the latest headphone reviews and headphone news. Spirited discussion forums, Head-Fi gear galleries, a large review database, and audio measurements." name="description"/>
+<meta content="Headphone Reviews and Discussion - Head-Fi.org" property="og:site_name"/>
+<meta content="https://cdn.head-fi.org/assets/static/Head-Fi_Favicon_01e_200.png" property="og:image"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.head-fi.org/forums/" property="og:url"/>
+<meta content="Headphone Reviews and Discussion - Head-Fi.org" property="og:title"/>
+<meta content="Head-Fi: All the latest headphone reviews and headphone news. Spirited discussion forums, Head-Fi gear galleries, a large review database, and audio measurements." property="og:description"/>
+</head>
+<body>
+<div style="position:fixed;bottom:0px;width:100%;z-index:10;margin:0px;padding:0px;border:0px solid #00ffff;">
+<div class="PanelScrollerOff Notices" style="display: block;">
+<div class="scrollContainer">
+<div class="PanelContainer">
+<ol class="Panels">
+<li class="panel Notice DismissParent notice_1" data-notice="1">
+<div class="baseHtml noticeContent"><p align="center">This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.<br/>
+By continuing to use this site, you are consenting to our use of cookies.</p></div>
+<a class="DismissCtrl Tooltip" data-offsetx="7" data-tipclass="flipped" href="account/dismiss-notice?notice_id=1">Dismiss Notice</a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="dfp_takeover"><div class="dfp" id="div-gpt-ad-1500930848317-0" style="
+		position:fixed;
+		top:0px;
+		right:0px;
+		bottom:0px;
+		left:0px;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+		background-position:center top;
+		background-repeat:no-repeat;
+	">
+</div></div>
+<div id="loginBar">
+<div class="pageWidth">
+<div class="pageContent">
+<span class="helper"></span>
+<form action="login/login" class="xenForm" id="login" method="post" style="display:none;margin-bottom:40px;">
+<div style="width:100%;text-align:center;margin-top:40px;margin-bottom:20px;">
+<img alt="Head-Fi.org" src="https://cdn.head-fi.org/assets/static/HFXT_Head-Fi_Logo_800x170.png" style="max-height:72px;width:auto;height:auto;border:none;-webkit-filter:drop-shadow(5px 5px 5px #222);filter:drop-shadow(5px 5px 25px #000000);"/>
+</div>
+<div class="ctrlWrapper">
+<dl class="ctrlUnit">
+<dt><label for="LoginControl" style="font-family:'Montserrat',sans-serif;font-weight:bold;text-shadow:5px 5px 7px #000000;color:#ffffff !important;">Your username or email address:</label></dt>
+<dd><input class="textCtrl" id="LoginControl" name="login" style="background-color:#ffffff !important;color:#000000 !important;border:none;-webkit-filter:drop-shadow(5px 5px 5px #222);filter:drop-shadow(5px 5px 25px #000000);" tabindex="101" type="text"/></dd>
+</dl>
+<dl class="ctrlUnit">
+<dt>
+<label for="ctrl_password" style="font-family:'Montserrat',sans-serif;font-weight:bold;text-shadow:5px 5px 7px #000000;color:#ffffff;">Do you already have an account?</label>
+</dt>
+<dd>
+<ul>
+<li><label for="ctrl_not_registered" style="font-family:'Montserrat',sans-serif;font-weight:bold;text-shadow:3px 3px 5px #000000;color:#ffffff;"><input id="ctrl_not_registered" name="register" tabindex="105" type="radio" value="1"/>
+						 No, create an account now.</label></li>
+<li><label for="ctrl_registered" style="font-family:'Montserrat',sans-serif;font-weight:bold;text-shadow:3px 3px 5px #000000;color:#ffffff;"><input checked="checked" class="Disabler" id="ctrl_registered" name="register" tabindex="105" type="radio" value="0"/>
+						 Yes, my password is:</label></li>
+<li id="ctrl_registered_Disabler">
+<input class="textCtrl" id="ctrl_password" name="password" style="background-color:#ffffff !important;color:#000000 !important;border:none;-webkit-filter:drop-shadow(5px 5px 5px #222);filter:drop-shadow(5px 5px 25px #000000);" tabindex="102" type="password"/>
+<div class="lostPassword" style="font-family:'Montserrat',sans-serif;font-weight:bold;text-shadow:3px 3px 5px #000000;color:#ffffff;margin-top:10px;"><a class="OverlayTrigger OverlayCloser" href="lost-password/" style="color:#ffffff;text-decoration:none;" tabindex="106">Forgot your password?</a></div>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="ctrlUnit submitUnit">
+<dt></dt>
+<dd>
+<input class="button primary" data-loginphrase="Log in" data-signupphrase="Sign up" style="background-color:#ffffff !important;border:none;-webkit-filter:drop-shadow(5px 5px 5px #222);filter:drop-shadow(5px 5px 25px #000000);" tabindex="104" type="submit" value="Log in"/>
+<label class="rememberPassword" for="ctrl_remember" style="font-family:'Montserrat',sans-serif;font-weight:bold;text-shadow:3px 3px 5px #000000;color:#ffffff;">     <input id="ctrl_remember" name="remember" style="background-color:#ffffff !important;border:none;-webkit-filter:drop-shadow(5px 5px 5px #222);filter:drop-shadow(5px 5px 25px #000000);" tabindex="103" type="checkbox" value="1"/>   Stay logged in</label>
+</dd>
+</dl>
+</div>
+<input name="cookie_check" type="hidden" value="1"/>
+<input name="redirect" type="hidden" value="/"/>
+<input name="_xfToken" type="hidden" value=""/>
+</form></div>
+</div>
+</div>
+<div id="hfxtmfd" style="background-color: white;">
+<svg id="svglayer" style="display: none;">
+<defs>
+<mask id="svgmask">
+<rect fill="white" height="100%" id="rectwhite" width="100%"></rect>
+<rect fill="black" height="0" id="clip_dfp_takeover" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_filmstrip_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_filmstrip_2" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_filmstrip_3" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sidekick_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sidekick_2" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sidekick_3" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_ultra_leaderboard_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_ultra_leaderboard_2" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_wedge_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_wedge_2" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_super_leaderboard_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_super_leaderboard_2" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_super_leaderboard_3" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sidekick_mobile_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sponsor_1" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sponsor_2" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sponsor_3" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sponsor_4" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sponsor_5" width="0" x="0" y="0"></rect>
+<rect fill="black" height="0" id="clip_dfp_sponsor_6" width="0" x="0" y="0"></rect>
+</mask>
+</defs>
+<rect fill="white" height="100%" id="rectmask" mask="url(/#svgmask)" width="100%"></rect>
+</svg>
+<script type="text/javascript">sonnbXenGalleryEnableInterlace = 0;</script>
+<div id="headerMover">
+<div id="headerProxy"></div>
+<header>
+<div id="header">
+<div id="logoBlock">
+<div class="pageWidth">
+<div class="pageContent">
+<div id="logo"><a href="https://www.head-fi.org">
+<span></span>
+<img alt="Headphone Reviews and Discussion - Head-Fi.org" src="https://cdn.head-fi.org/assets/static/HFXT_Head-Fi_Logo_800x170.png" style="max-height:40px;width:auto;height:auto;margin-left:25px;"/>
+</a></div>
+<span class="helper"></span>
+</div>
+</div>
+</div>
+<div class="stickynavbar">
+<div class="pageWidth withSearch" id="navigation">
+<div class="pageContent">
+<nav>
+<div class="navTabs">
+<div class="pageWidth" id="searchBar">
+<span id="QuickSearchPlaceholder" title="Search">Search</span>
+<fieldset id="QuickSearch">
+<form action="search/search" class="formPopup" method="post">
+<div class="primaryControls">
+<!-- block: primaryControls -->
+<input class="textCtrl" id="QuickSearchQuery" name="keywords" placeholder="Search..." results="0" title="Enter your search and hit enter" type="search" value=""/>
+<!-- end block: primaryControls -->
+</div>
+<div class="secondaryControls">
+<div class="controlsWrapper">
+<!-- block: secondaryControls -->
+<dl class="ctrlUnit">
+<dt></dt>
+<dd><ul>
+<li><label><input class="AutoChecker" data-uncheck="#search_bar_thread" id="search_bar_title_only" name="title_only" type="checkbox" value="1"/> Search titles only</label></li>
+</ul></dd>
+</dl>
+<dl class="ctrlUnit">
+<dt><label for="searchBar_users">Posted by Member:</label></dt>
+<dd>
+<input autocomplete="off" class="textCtrl AutoComplete" id="searchBar_users" name="users" type="text" value=""/>
+<p class="explain">Separate names with a comma.</p>
+</dd>
+</dl>
+<dl class="ctrlUnit">
+<dt><label for="searchBar_date">Newer Than:</label></dt>
+<dd><input class="textCtrl date" data-orig-type="date" id="searchBar_date" name="date" type="text" value=""/></dd>
+</dl>
+</div>
+<!-- end block: secondaryControls -->
+<dl class="ctrlUnit submitUnit">
+<dt></dt>
+<dd>
+<input class="button primary Tooltip" type="submit" value="Search"/>
+<div class="Popup" id="commonSearches">
+<a class="button NoPopupGadget Tooltip PopupControl" data-tipclass="flipped" rel="Menu"><span class="arrowWidget"></span></a>
+</div>
+<a class="button moreOptions Tooltip" href="search/">More...</a>
+</dd>
+</dl>
+</div>
+<input name="_xfToken" type="hidden" value=""/>
+</form>
+</fieldset>
+</div>
+<ul class="publicTabs">
+<!-- home -->
+<li class="navTab home PopupClosed"><a class="navLink" href="https://www.head-fi.org"><i aria-hidden="true" class="fa fa-home fa-fw"></i></a></li>
+<!-- extra tabs: home -->
+<!-- forums -->
+<li class="navTab forums Popup PopupControl PopupClosed PopupContainerControl">
+<a class="navLink NoPopupGadget" href="https://www.head-fi.org/forums/" rel="Menu">Forums</a>
+</li>
+<!-- extra tabs: middle -->
+<li class="navTab sonnb_xengallery Popup PopupControl PopupClosed PopupContainerControl">
+<a class="navLink NoPopupGadget" href="https://www.head-fi.org/gallery/" rel="Menu">Gallery</a>
+</li>
+<li class="navTab showcase Popup PopupControl PopupClosed PopupContainerControl">
+<a class="navLink NoPopupGadget" href="https://www.head-fi.org/showcase/" rel="Menu">Head Gear</a>
+</li>
+<li class="navTab ams Popup PopupControl PopupClosed PopupContainerControl">
+<a class="navLink NoPopupGadget" href="https://www.head-fi.org/articles/" rel="Menu">Articles</a>
+</li>
+<!-- members -->
+<!-- extra tabs: end -->
+<li class="navTab navTab1 PopupClosed"><a class="navLink" data-cacheoverlay="true" href="/sponsors/">Sponsors</a></li>
+<!-- responsive popup -->
+<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed PopupContainerControl" style="display: none;">
+<a class="navLink NoPopupGadget" rel="Menu"><span class="menuIcon">Menu</span></a>
+</li>
+<!-- no selection -->
+<li class="navTab selected"><div class="tabLinks"></div></li>
+</ul>
+<ul class="visitorTabs">
+<li class="navTab login PopupClosed"><label for="LoginControl"><a class="navLink" href="login/"> <span class="snLoginTab">Log in or Sign up</span><span class="snLoginTabMobile">Log in</span></a></label></li>
+</ul>
+</div>
+<span class="helper"></span>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div><!-- headerMover -->
+<div class="iab_leaderboard_max">
+<div class="banner_flex_leaderboard_parent fixbox">
+<div class="banner_flex_leaderboard_child_left"></div>
+<div id="dfp_ultra_leaderboard_1"><div class="dfp" id="div-gpt-ad-1490803956740-0">
+</div></div>
+<div class="banner_flex_leaderboard_child_right"></div>
+</div>
+</div>
+<div class="hf_feature_index" id="content">
+<div class="pageWidth" id="content_inner">
+<div class="pageContent" id="content_inner_inner">
+<div id="hf_main">
+<div class="sidebar">
+<div class="section loginButton">
+<div class="secondaryContent" style="overflow:auto;border-bottom:20px solid #ffffff;">
+<label for="LoginControl" id="SignupButton"><a class="inner" href="login/">Sign up now!</a>
+</label>
+</div>
+</div>
+<div id="dfp_filmstrip_1"><div class="dfp" id="div-gpt-ad-1490802922404-0">
+</div></div>
+<div style="clear:both;height:20px;background-color:#ffffff;"></div>
+<div id="dfp_sidekick_1"><div class="dfp" id="div-gpt-ad-1490803342509-0">
+</div></div>
+<div style="clear:both;height:20px;background-color:#ffffff;"></div>
+<div id="dfp_wedge_1"><div class="dfp" id="div-gpt-ad-1490804909103-0">
+</div></div>
+<div style="clear:both;height:20px;background-color:#ffffff;"></div>
+<div id="dfp_filmstrip_2"><div class="dfp" id="div-gpt-ad-1490803283052-0">
+</div></div>
+<div style="clear:both;height:20px;background-color:#ffffff;"></div>
+<div id="dfp_sidekick_2"><div class="dfp" id="div-gpt-ad-1490803702659-0">
+</div></div>
+<div style="clear:both;height:20px;background-color:#ffffff;"></div>
+<div id="dfp_wedge_2"><div class="dfp" id="div-gpt-ad-1490804937368-0">
+</div></div>
+<div style="clear:both;height:20px;background-color:#ffffff;"></div>
+<div id="dfp_filmstrip_3"><div class="dfp" id="div-gpt-ad-1490803313308-0">
+</div></div>
+<div style="clear:both;width:300px;background-color:#ffffff;"></div>
+</div>
+<!-- class="breadBoxTop " -->
+<div style="display:block;width:auto;overflow:hidden;">
+<nav>
+<fieldset class="breadcrumb" style="">
+<div class="boardTitle"><strong>Headphone Reviews and Discussion - Head-Fi.org</strong></div>
+<span class="crumbs">
+<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a class="crumb" href="https://www.head-fi.org" itemprop="url" rel="up"><span itemprop="title">Home</span></a>
+<span class="arrow"><span></span></span>
+</span>
+</span>
+</fieldset>
+</nav>
+</div>
+<div id="spacer-below-breadcrumbs" style="width:100%;height:20px;background-color:#ffffff;"></div>
+<!--[if lt IE 8]><p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p><![endif]-->
+<div style="width:100%;height:20px;background-color:#ffffff;"></div>
+<div style="display:block;overflow:hidden;auto;background-color:transparent;
+						border-style:solid;border-color:#ffffff;border-width:0px 0px 0px 0px;
+						-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">
+<!-- main template -->
+<a class="feature-links" href="https://www.head-fi.org/threads/canjam-socal-2019-impressions-thread.909385/page-4#post-15023672" target="_top">
+<div class="box-border feature-boxes hfhpfeat_single_outer" style="background-image:url('https://cdn.head-fi.org/features/1521_l_overlay');">
+<div class="feature-bg hfhpfeat_single_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_single_inner-top">
+					CanJam SoCal 2019 Impressions by pure5152
+				</div>
+<div class="feature-bg hfhpfeat_single_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1521_l');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_single_inner-bottom" id="truncate_blurb_1">Head-Fi'er @pure5152 joined us for CanJam SoCal 2019 and has shared some of his highlights from the show. Click here to visit the impressions thread to read about the gear that impressed him most.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<div class="fp880ads">
+<div class="banner_flex_leaderboard_parent fixbox">
+<div class="banner_flex_leaderboard_child_left"></div>
+<div class="banner_flex_leaderboard_child_center">
+<div id="div_dfp_super_leaderboard_1" style="background-color:transparent !important;border-bottom:20px solid #ffffff;">
+<div id="dfp_super_leaderboard_1"><div class="dfp" id="div-gpt-ad-1490814703642-0">
+</div></div>
+</div>
+</div>
+<div class="banner_flex_leaderboard_child_right"></div>
+</div>
+</div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/sennheiser-momentum-true-wireless.23306/reviews#review-22242" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1518_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					Sennheiser Momentum True Wireless Review by sanakimpro
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1518_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_2">"<i>For me, the MTW has a balanced sound profile with a small bass boost towards the mid and sub bass thus giving a slight U/V- sound signature,</i>" writes @sanakimpro. Read the full review here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coldouble"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/ttvjaudio-newsletter.909650/" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1522_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					Check out These Specials and Updates from TTVJ Audio
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1522_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_3">A number of new products and specials have been added to the TTVJ catalog recently, and @Todd shares them with the community in this thread. Check out some of the best deals in this thread.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/audio-technica-ath-adx5000.22829/reviews#review-22245" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1520_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					Audio-Technica ATH-ADX5000 Impressions by radekhulan
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1520_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_4">Head-Fi'er @radekhulan shared some brief impressions of the Audio-Technica ATH-ADX5000 headphones, calling them "<i>as TOTL as it can get.</i>" For a quick read, check out his impressions here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coldouble"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/albuquerque-nm-meet-june-29-2019.906723/" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1519_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					Upcoming Meet: Albuquerque, NM (June 29, 2019)
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1519_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_5">The Albuquerque-area Head-Fi'ers will be getting together for a local meet this weekend, and they're inviting you to stop by. Check out the meet thread to see who and what will be in attendance.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<div class="fp880ads">
+<div class="banner_flex_leaderboard_parent fixbox">
+<div class="banner_flex_leaderboard_child_left"></div>
+<div class="banner_flex_leaderboard_child_center">
+<div id="div_dfp_super_leaderboard_2" style="background-color:transparent !important;border-bottom:20px solid #ffffff;">
+<div id="dfp_super_leaderboard_2"><div class="dfp" id="div-gpt-ad-1490814735999-0">
+</div></div>
+</div>
+</div>
+<div class="banner_flex_leaderboard_child_right"></div>
+</div>
+</div>
+<a class="feature-links" href="https://www.head-fi.org/threads/canjam-london-2019-july-27-28-2019.905907/" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1408_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					Head-Fi Returns to the UK for CanJam London 2019 (July 27-28, 2019)
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1408_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_6">CanJam London is returning on July 27-28, 2019, and will be taking place once again at the Park Plaza Westminster Bridge hotel. Follow this thread and stay up to date as more details are announced.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coldouble"> </div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/fiio-k3-headphone-amplifier-usb-c-dac-review.23461/reviews#review-22241" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1513_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					FiiO K3 Review by Zelda
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1513_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_7">If you're on the hunt for a compact DAC/amp that "<i>strikes with high detail and balance,</i>" @Zelda's FiiO K3 review should be your next stop. "<i>The FiiO K3 DAC is surprisingly very good in sound quality.</i>"</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/introducing-the-t20-wireless.909311/" target="_top">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1509_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					RHA Introduces the All-New RHA T20 Wireless
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1509_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_8">RHA has updated their classic T20 and T20i model IEMs and is going wireless with the all-new RHA T20 Wireless. If you loved the original T20 or T20i IEMs, read all about the new wireless sibling here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coldouble"> </div>
+<a class="feature-links" href="http://s.bl-1.com/h/c6ZVd5Gf?url=https://www.head-fi.org/threads/canjam-socal-2019-june-22-23-2019.901166/page-34#post-15015390" target="_blank">
+<div class="box-border feature-boxes hfhpfeat_double_outer" style="background-image:url('https://cdn.head-fi.org/features/1503_m_overlay');">
+<div class="feature-bg hfhpfeat_double_inner" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+<div class="feature-title feature-font hfhpfeat_double_inner-top">
+					CanJam SoCal 2019 Preview: A Head-Fi Headphone? Fast Cans &amp; DAPs. Gear Measuring Well.
+				</div>
+<div class="feature-bg hfhpfeat_double_inner-middle" style="background-image:url('https://cdn.head-fi.org/features/1503_m');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_double_inner-bottom" id="truncate_blurb_9">CanJam SoCal 2019 may be over, but you can still check out some of the incredible gear that was at the show in the Head-Fi CanJam SoCal Preview Video. Click here to check it out.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<div class="fp880ads">
+<div class="banner_flex_leaderboard_parent fixbox">
+<div class="banner_flex_leaderboard_child_left"></div>
+<div class="banner_flex_leaderboard_child_center">
+<div id="div_dfp_super_leaderboard_3" style="background-color:transparent !important;border-bottom:20px solid #ffffff;">
+<div id="dfp_super_leaderboard_3"><div class="dfp" id="div-gpt-ad-1490815580547-0">
+</div></div>
+</div>
+</div>
+<div class="banner_flex_leaderboard_child_right"></div>
+</div>
+</div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/ncm-bella-v2.23782/reviews#review-22231" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1512_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1512_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					NCM Bella V2 Review by SLC1966
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_10">"<i>If you want something on the brighter side with a chunk of tight bass then [the NCM] Bella V2 is for you,</i>" writes @SLC1966, thanks to its "<i>front row seat sound signature.</i>" Read the review here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coltriple"> </div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/burson-audio-fun.23238/reviews#review-22229" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1511_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1511_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Burson Audio Fun Impressions by ls13coco
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_11">Head-Fi'er @ls13coco recently shared their impressions of the Burson Audio Fun, calling it a reasonably priced "<i>do it all</i>" amp. Click here to read more about the Burson Audio Fun.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coltriple"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/mad-lust-envys-headphone-gaming-guide-6-18-2019-creative-sxfi-air-added.534479/page-2835#post-15015875" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1508_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1508_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Creative SXFI AIR Review by Mad Lust Envy
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_12">@Mad Lust Envy calls the AIR "<i>an absolute marvel when gaming</i>" with its "<i>ridiculously large soundstaging, incredible positional accuracy within that space, and sense of immersion.</i>" Read about it here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/schiit-happened-the-story-of-the-worlds-most-improbable-start-up.701900/page-3176#post-15016926" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1505_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1505_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Schiit Happened: 2019, Chapter 9 - The Ragnarok That Is
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_13">In the most recent chapter of Schiit Happened, @Jason Stoddard discusses the new Ragnarok 2's development and asks "<i>how do you know whether to play it safe or start over?</i>" Find out how in his blog.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coltriple"> </div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/moondrop-kxxs.23779/reviews#review-22219" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1504_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1504_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Moondrop KXXS Review by Animagus
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_14">Head-Fi'er @Animagus says the "<i>Moondrop KXXS does everything right. The bass is good, mids are natural, drums and vocals are a joy to listen to and treble is crisp and clear yet smooth.</i>" Read it here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coltriple"> </div>
+<a class="feature-links" href="https://www.head-fi.org/showcase/stealth-sonics-u9.23772/reviews#review-22211" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1501_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1501_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Stealth Sonics U9 Review by Layman1
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_15">"<i>I can only praise the U9,</i>" writes @Layman1. "<i>It combines terrific detail, clarity, extension and outstanding technical performance with a hugely enjoyable neutral-musical signature.</i>" Read more here.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+<a class="feature-links" href="http://s.bl-1.com/h/c6JGYndb?url=https://www.head-fi.org/threads/attention-head-fiers-in-china-and-japan.908837" target="_blank">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1498_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1498_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Attention Head-Fi'ers In China And Japan
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_16">An established, respected audio manufacturer is conducting research and wants to invite Head-Fie'rs from Japan and China to participate. They will provide incentive for your time and participation.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coltriple"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/64-audio-see-whats-new-at-canjam-socal.909327/" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1510_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1510_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Come Say Hello to the Newest Addition to 64 Audio's Lineup
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_17">64 Audio will be unveiling a brand new product at CanJam SoCal 2019, and they're inviting you to be among the first to take it for a spin. Make sure not to miss the 64 Audio exhibit this weekend.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_coltriple"> </div>
+<a class="feature-links" href="https://www.head-fi.org/threads/matrix-audio-and-qdc-iems-at-socal-2019.909395/" target="_top">
+<div class="box-border feature-boxes hfhpfeat_triple_outer" style="background-image:url('https://cdn.head-fi.org/features/1516_s');">
+<div class="feature-bg hfhpfeat_triple_inner" style="background-image:url('https://cdn.head-fi.org/features/1516_s_overlay');">
+<div class="feature-title feature-font hfhpfeat_triple_inner-top">
+					Moon Audio Invites You to Experience Matrix Audio and QDC at CanJam SoCal
+				</div>
+<div class="feature-bg hfhpfeat_triple_inner-middle" style="background-image:url('https://cdn.head-fi.org/assets/static/wpc.gif');">
+					 
+				</div>
+<div class="feature-blurb feature-font hfhpfeat_triple_inner-bottom" id="truncate_blurb_18">Moon Audio recommends you experience the latest products from QDC and Matrix Audio at CanJam SoCal 2019. Check out these exhibits to hear products like the Matrix Audio Element X and the QDC Anole VX.</div>
+</div>
+</div>
+</a>
+<div class="hfhpfeat_follower_row"> </div>
+</div>
+<!-- login form, to be moved to the upper drop-down -->
+</div>
+<!-- • --><div style="width:100%;height:0px;clear:both;background-color:#ffffff;"></div>
+</div>
+</div>
+</div>
+<div class="hf_mobile_ad_slot" style="border-bottom:20px solid #ffffff;">
+<div id="dfp_sidekick_mobile_1"><div class="dfp" id="div-gpt-ad-1492666286225-0">
+</div></div>
+</div>
+<!-- ADS // HF SPONSORS // 140x140 -->
+<div class="hf_sponsor_140x140 banner_flex_140x140_parent fix box">
+<div class="banner_flex_140x140_arrow">
+<a href="https://www.head-fi.org/articles/advertise.12522/">
+<img border="0" height="140" src="https://cdn.head-fi.org/assets/static/HF_SponsorFlag_01a.jpg" width="228"/>
+</a>
+</div>
+<div class="banner_flex_140x140_tile_one">
+<div id="dfp_sponsor_1"><div class="dfp" id="div-gpt-ad-1490752276726-0">
+</div></div>
+</div>
+<div class="banner_flex_140x140_tile_two">
+<div id="dfp_sponsor_2"><div class="dfp" id="div-gpt-ad-1490752301668-0">
+</div></div>
+</div>
+<div class="banner_flex_140x140_tile_three">
+<div id="dfp_sponsor_3"><div class="dfp" id="div-gpt-ad-1490752469798-0">
+</div></div>
+</div>
+<div class="banner_flex_140x140_tile_four">
+<div id="dfp_sponsor_4"><div class="dfp" id="div-gpt-ad-1490752505857-0">
+</div></div>
+</div>
+<div class="banner_flex_140x140_tile_five">
+<div id="dfp_sponsor_5"><div class="dfp" id="div-gpt-ad-1490752540270-0">
+</div></div>
+</div>
+<div class="banner_flex_140x140_tile_six">
+<div id="dfp_sponsor_6"><div class="dfp" id="div-gpt-ad-1490752581336-0">
+</div></div>
+</div>
+</div>
+<div class="breadBoxBottom" style="width:100%;background-color:#ffffff;border-top:20px solid #ffffff;border-right:20px solid #ffffff;">
+<nav>
+<fieldset class="breadcrumb" style="">
+<div class="boardTitle"><strong>Headphone Reviews and Discussion - Head-Fi.org</strong></div>
+<span class="crumbs">
+<span class="crust homeCrumb">
+<a class="crumb" href="https://www.head-fi.org"><span>Home</span></a>
+<span class="arrow"><span></span></span>
+</span>
+</span>
+</fieldset>
+</nav></div>
+<div class="iab_leaderboard_max">
+<div class="banner_flex_leaderboard_parent fixbox">
+<div class="banner_flex_leaderboard_child_left"></div>
+<div id="dfp_ultra_leaderboard_2"><div class="dfp" id="div-gpt-ad-1490803986743-0">
+</div></div>
+<div class="banner_flex_leaderboard_child_right"></div>
+</div>
+</div>
+<footer>
+<div class="footer">
+<div class="pageWidth">
+<div class="pageContent">
+<ul class="footerLinks">
+<li><a href="articles/6725/">Rules and Terms of Use</a></li>
+<li><a class="OverlayTrigger" data-overlayoptions='{"fixed":false}' href="misc/contact">Contact Us</a></li>
+<li><a href="help/">Help</a></li>
+<li><a class="homeLink" href="https://www.head-fi.org">Home</a></li>
+<li><a class="topLink" href="/#navigation">Top</a></li>
+<li><a class="globalFeed" href="forums/-/index.rss" rel="alternate" target="_blank" title="RSS feed for Headphone Reviews and Discussion - Head-Fi.org">RSS</a></li>
+</ul>
+<span class="helper"></span>
+</div>
+</div>
+</div>
+<div id="copyright" style="width:100%;border-style:solid;border-color:#ffffff;border-width:14px 20px 16px 20px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;text-align:center;"><a href="/" style="font:7px 'Droid Sans',sans-serif;color:#cccccc;text-decoration:none;">© 2001-2019 Head-Fi.org.  All rights reserved.</a></div>
+</footer>
+<div style="clear:both;width:100px;height:45px;"></div>
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://www.head-fi.org/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://www.head-fi.org/search/search?keywords={search_keywords}",
+		"query-input": "required name=search_keywords"
+	}
+}
+</script>
+</div>
+<script type="text/javascript">
+var dfpTakeoverRunning = false;
+function updateBackground() {
+	var hfxtmfd = document.getElementById("hfxtmfd");
+	var svglayer = document.getElementById("svglayer");
+	if (dfpTakeoverRunning) {
+		hfxtmfd.classList.add("fixed-width");
+		var bounds = hfxtmfd.getBoundingClientRect();
+		var svgTop = bounds.top;
+		var svgLeft = bounds.left;
+		var spots = ['filmstrip_1','filmstrip_2','filmstrip_3','sidekick_1','sidekick_2','sidekick_3','sidekick_mobile_1','super_leaderboard_1','super_leaderboard_2','super_leaderboard_3','ultra_leaderboard_1','ultra_leaderboard_2','wedge_1','wedge_2'];
+		spots.forEach(function(spot) {
+			var clip = document.getElementById("clip_dfp_"+spot);
+			if (clip) {
+				var div = document.getElementById("dfp_"+spot);
+				var r = div ? div.getBoundingClientRect() :
+					{left:0, top:0, width:0, height:0};
+
+				clip.setAttribute("x", (r.left-svgLeft)+"px");
+				clip.setAttribute("y", (r.top-svgTop)+"px");
+				clip.setAttribute("width", r.width+"px");
+				clip.setAttribute("height", r.height+"px");
+			}
+		});
+	}
+	svglayer.style.setProperty("display", dfpTakeoverRunning ? "initial" : "none");
+	hfxtmfd.style.setProperty("background-color", dfpTakeoverRunning ? "transparent" : "white");
+}
+
+(function(window, document) {
+	document.addEventListener('DOMContentLoaded', updateBackground);
+	window.addEventListener('resize', updateBackground);
+})(window, document);
+</script>
+<div id="calroot" style="display: none; position: absolute;"><div id="calhead"><a id="calprev">←</a><div id="caltitle"></div><a id="calnext">→</a></div><div id="calbody"><div id="caldays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div id="calweeks"></div></div></div><div class="Menu" id="XenForoUniq0">
+<div class="primaryContent menuHeader">
+<h3>Useful Searches</h3>
+</div>
+<ul class="secondaryContent blockLinksList">
+<!-- block: useful_searches -->
+<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+<!-- end block: useful_searches -->
+</ul>
+</div><div class="Menu JsOnly tabMenu forumsTabLinks" id="XenForoUniq1">
+<div class="primaryContent menuHeader">
+<h3>Forums</h3>
+<div class="muted">Quick Links</div>
+</div>
+<ul class="secondaryContent blockLinksList">
+<li><a href="search/?type=post">Search Forums</a></li>
+<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+</ul>
+</div><div class="Menu JsOnly tabMenu sonnb_xengalleryTabLinks" id="XenForoUniq2">
+<div class="primaryContent menuHeader">
+<h3>Gallery</h3>
+<div class="muted">Quick Links</div>
+</div>
+<ul class="secondaryContent blockLinksList xengallery">
+<li><a href="gallery/categories">Categories</a></li>
+<li><a class="OverlayTrigger" href="gallery/explore-user" title="Explore User's Albums">Explore User's Albums</a></li>
+<li><a href="gallery/new-albums" title="New Albums">New Albums</a></li>
+<li><a href="gallery/new-photos" title="New Photos">New Photos</a></li>
+<li><a href="gallery/new-videos" title="New Videos">New Videos</a></li>
+<li><a href="gallery/new-comments" title="New Comments">New Comments</a></li>
+<li><a href="gallery/collections" title="All interesting, fantastic and amazing photos/albums collected and promoted by our staffs on Headphone Reviews and Discussion - Head-Fi.org ">Collections</a></li>
+</ul>
+</div><div class="Menu JsOnly tabMenu showcaseTabLinks" id="XenForoUniq3">
+<div class="primaryContent menuHeader">
+<h3>Head Gear</h3>
+<div class="muted">Quick Links</div>
+</div>
+<ul class="secondaryContent blockLinksList showcase">
+<li><a href="search/?type=showcase_item">Search Showcase</a></li>
+<li><a href="showcase/member">Most Active Members</a></li>
+<ul>
+<li class="tablinkIndent"><a href="find-new/showcase-items" rel="nofollow">New Items</a></li>
+<li class="tablinkIndent"><a href="find-new/showcase-comments" rel="nofollow">New Comments</a></li>
+<li class="tablinkIndent"><a href="find-new/showcase-reviews" rel="nofollow">New Reviews</a></li>
+</ul>
+</ul>
+</div><div class="Menu JsOnly tabMenu amsTabLinks" id="XenForoUniq4">
+<div class="primaryContent menuHeader">
+<h3>Articles</h3>
+<div class="muted">Quick Links</div>
+</div>
+<ul class="secondaryContent blockLinksList ams">
+<li><a href="search/?type=ams_article">Search Articles</a></li>
+<li><a href="articles/series">Series</a></li>
+<li><a href="articles/author">Notable Authors</a></li>
+<ul>
+<li class="tablinkIndent"><a href="find-new/ams-articles" rel="nofollow">New Articles</a></li>
+<li class="tablinkIndent"><a href="find-new/ams-comments" rel="nofollow">New Comments</a></li>
+<li class="tablinkIndent"><a href="find-new/ams-reviews" rel="nofollow">New Reviews</a></li>
+</ul>
+</ul>
+</div><div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div></body></html>
