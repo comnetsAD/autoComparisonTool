@@ -59,30 +59,33 @@ for link in URLs:
 
             output.write(str(soup))
 
-            #######################################
-            ### 2. Screenshot ###
-            #######################################
-            j = 1
-            lastHeight = -1
-            while j < 5 and lastHeight != driver.execute_script("return window.scrollY"):
-                try:
-                    # take a screenshot and store it
-                    if not os.path.exists("ss/" + folderName):
-                        os.mkdir("ss/" + folderName)
-                        os.mkdir("ss/" + folderName + "/0")
-                        os.mkdir("ss/" + folderName + "/1")
-                    ssPath = "ss/" + folderName + "/" + str(i) + "/screenshot{}.png".format(j)
-                    driver.save_screenshot(ssPath)
-                    print ("Capturing Screenshot #", j, "for", link)
-                    lastHeight = driver.execute_script("return window.scrollY")
+            el = driver.find_element_by_tag_name('body')
+            el.screenshot("test.png")
 
-                    # scroll down
-                    scrollScript = "setTimeout(function(){window.scrollBy(0," + str(driver1.get_window_size()['height']) + ");}, 2000);"
-                    driver.execute_script(scrollScript)
-                    time.sleep(2)
-                    j = j + 1
-                except Exception as e:
-                    print (str(e))
+            # #######################################
+            # ### 2. Screenshot ###
+            # #######################################
+            # j = 1
+            # lastHeight = -1
+            # while j < 5 and lastHeight != driver.execute_script("return window.scrollY"):
+            #     try:
+            #         # take a screenshot and store it
+            #         if not os.path.exists("ss/" + folderName):
+            #             os.mkdir("ss/" + folderName)
+            #             os.mkdir("ss/" + folderName + "/0")
+            #             os.mkdir("ss/" + folderName + "/1")
+            #         ssPath = "ss/" + folderName + "/" + str(i) + "/screenshot{}.png".format(j)
+            #         driver.save_screenshot(ssPath)
+            #         print ("Capturing Screenshot #", j, "for", link)
+            #         lastHeight = driver.execute_script("return window.scrollY")
+
+            #         # scroll down
+            #         scrollScript = "setTimeout(function(){window.scrollBy(0," + str(driver1.get_window_size()['height']) + ");}, 2000);"
+            #         driver.execute_script(scrollScript)
+            #         time.sleep(2)
+            #         j = j + 1
+            #     except Exception as e:
+            #         print (str(e))
 
         except Exception as e:
             print(str(e))
